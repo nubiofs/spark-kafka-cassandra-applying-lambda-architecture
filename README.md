@@ -11,3 +11,17 @@ The course comes with a VM specifically built to allow you to hit the ground run
 Please visit the course page for more details [https://www.pluralsight.com/courses/spark-kafka-cassandra-applying-lambda-architecture](https://www.pluralsight.com/courses/spark-kafka-cassandra-applying-lambda-architecture)
 
 ##### Having problems? See [troubleshooting](https://github.com/aalkilani/spark-kafka-cassandra-applying-lambda-architecture/blob/master/vagrant/troubleshooting.md)
+
+* (Meus / outros links) ver:
+
+==> https://atlas.hashicorp.com/aalkilani/boxes/spark-kafka-cassandra-applying-lambda-architecture
+
+==> http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Streaming_Kafka_Cassandra.php
+
+==> https://academy.datastax.com/resources/getting-started-apache-spark-and-cassandra?unit=getting-started-apache-spark-and-cassandra
+
+==> https://github.com/databricks/spark-knowledgebase
+
+==> http://www.jamesserra.com/archive/2016/08/what-is-the-lambda-architecture/
+
+==> http://lambda-architecture.net/
